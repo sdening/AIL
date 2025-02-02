@@ -3,7 +3,7 @@
 * Prompt Optimization NLP Lab Course
 * **Note:** This is preliminary version of our code. The complete code to run all experiments in the paper will be added shortly.
 
-<img src="./Main Pipeline.png" alt="teaser image" width="7500"/>
+<img src="Main Pipeline.png" alt="teaser image" width="7500"/>
 
 ## Dependencies
 ...
